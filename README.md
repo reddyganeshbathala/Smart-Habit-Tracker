@@ -59,19 +59,16 @@ After encoding → decoding → output remains **identical** ✅
 ---
 
 ## ⭐ Support This Project
+
 Found this project helpful? Drop a ⭐ on GitHub — it inspires me to build and share more!
 
-👉 **https://github.com/reddyganeshbathala/Smart-Habit-Tracker**
+👉 **[Smart Habit Tracker](https://github.com/reddyganeshbathala/Smart-Habit-Tracker)**
 
----
 
-## 👤 Author
+## 🙋‍♂️ About Me
+
 **Reddy Ganesh B**  
 B.E. Electronics and Communication Engineering  
-Passionate about Embedded Systems, C Programming & Real-world Projects
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/reddyganeshbathala  
-🔗 **GitHub:** https://github.com/reddyganeshbathala
-
----  
+Passionate about Embedded Systems, C Programming, and building practical projects.  
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/reddyganeshbathala)| [GitHub](https://github.com/reddyganeshbathala)
 
