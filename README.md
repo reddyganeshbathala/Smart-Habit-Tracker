@@ -54,10 +54,24 @@ All data is stored in CSV files.
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.
+After encoding → decoding → output remains **identical** ✅
 
 ---
 
-✅ Feel free to fork, improve, or use this project for learning.  
-Thanks for checking it out!
+## ⭐ Support This Project
+Found this project helpful? Drop a ⭐ on GitHub — it inspires me to build and share more!
+
+👉 **https://github.com/reddyganeshbathala/Smart-Habit-Tracker**
+
+---
+
+## 👤 Author
+**Reddy Ganesh B**  
+B.E. Electronics and Communication Engineering  
+Passionate about Embedded Systems, C Programming & Real-world Projects
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/reddy-ganesh-bathala-790954325  
+🔗 **GitHub:** https://github.com/reddyganeshbathala
+
+---  
+
